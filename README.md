@@ -1,7 +1,7 @@
 # Real-time-video-transmission-and-reception
 Real-time video transmission/reception program using C++, OpenCV, and socket programming.
 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/c++ -00599C?style=flat-square&logo=C++&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/C++ -00599C?style=flat-square&logo=C++&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
 ## 기능
